@@ -11,9 +11,9 @@ As of now:
   The program allows for saving trees and flashcard sets as csv files and importing csv files as trees or flashcards.
 
 Other functionality that may appear as an option in the menu but hasn't been added in yet includes but is not limited to:
-  revision timetables
-  slicing data from a tree or flashcard set and importing it into revision timetable
-  slicing data from the tree and importing it into flashcards
+  Revision timetables.
+  Slicing data from a tree or flashcard set and importing it into revision timetable.
+  Slicing data from the tree and importing it into flashcards.
 
 Other functionality that may be added:
-  further display/output filtering and formatting
+  Further display/output filtering and formatting.
