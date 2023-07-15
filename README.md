@@ -8,7 +8,7 @@ youtube video on "How to study for exams - The Retrospective Revision Timetable"
 As of now:
   It can be used for making multi-tier tree diagrams and is especially useful for quick, organized note-taking. 
   The program allows for creating flashcards as well.
-  The program allows for saving and importing csv files as trees or flashcards (if the csv imported is two columns).
+  The program allows for saving trees and flashcard sets as csv files and importing csv files as trees or flashcards.
 
 Other functionality that may appear as an option in the menu but hasn't been added in yet includes but is not limited to:
   revision timetables
