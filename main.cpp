@@ -2,8 +2,6 @@
 #include <string>
 #include <iomanip>
 #include <vector>
-// #include <windows.h>
-// #include <conio.h>
 #include <limits>
 #include <fstream>
 #include <algorithm>
@@ -547,12 +545,12 @@ int main() {
       break;
     case 14: // create flashcards from a column
       break;
-    case 15: { system ("cls"); break; }
-    case 16: {system ("cls"); break; }
+    case 15: { break; }
+    case 16: { break; }
     case 17: // import a table
       break;
-    case 18: {system ("cls"); break; }
-    case 19: { system ("cls"); break; }
+    case 18: { break; }
+    case 19: { break; }
     case 20: // create a table from a column 
       break;
     case 21: { break; }
